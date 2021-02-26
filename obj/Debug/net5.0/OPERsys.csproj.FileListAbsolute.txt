@@ -1,0 +1,16 @@
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.exe
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.deps.json
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.runtimeconfig.json
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.runtimeconfig.dev.json
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.dll
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\ref\OPERsys.dll
+C:\Users\mirac\Desktop\opersys1\OPERsys\bin\Debug\net5.0\OPERsys.pdb
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.csprojAssemblyReference.cache
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.AssemblyInfo.cs
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.dll
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\ref\OPERsys.dll
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.pdb
+C:\Users\mirac\Desktop\opersys1\OPERsys\obj\Debug\net5.0\OPERsys.genruntimeconfig.cache
